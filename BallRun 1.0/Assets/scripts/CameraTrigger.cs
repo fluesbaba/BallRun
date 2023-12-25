@@ -15,10 +15,6 @@ public class CameraTrigger : MonoBehaviour
             camera1.SetActive(false);
             camera2.SetActive(true);
         }
-
-
-
-
     }
 
 }
